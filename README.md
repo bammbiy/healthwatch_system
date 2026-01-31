@@ -1,4 +1,3 @@
-markdown# HealthWatch System 
 
 실시간 환자 모니터링 시스템 - 병원/요양시설용
 
